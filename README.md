@@ -18,7 +18,7 @@ Stop manually connecting nodes every time you need a background reference!
 
 ## 📦 Installation
 
-1.  Download the latest release zip (or the `.py` file).
+1.  Download the latest release `.py` file).
 2.  Open Blender and go to **Edit > Preferences > Add-ons**.
 3.  Click **Install...** and select the downloaded file.
 4.  Enable the checkbox next to **Compositing: Comp Wrangler**.
